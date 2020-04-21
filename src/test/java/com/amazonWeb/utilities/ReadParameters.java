@@ -54,4 +54,9 @@ public class ReadParameters {
         return keyword;
     }
 
+    public String getRemote() {
+        String remoteValue = prop.getProperty("remoteselenium");
+        return remoteValue;
+    }
+
 }

@@ -206,3 +206,10 @@
 2020-04-21 10:47:06,676 [main] INFO ebayWebTest - *****User is on searching for product*****
 2020-04-21 10:47:08,681 [main] INFO ebayWebTest - *****User finds product*****
 2020-04-21 10:47:13,252 [main] INFO ebayWebTest - *****User is on checkout*****
+2020-04-21 11:43:57,470 [main] INFO ebayWebTest - *****Broswer launched*****
+2020-04-21 11:43:57,475 [main] INFO ebayWebTest - *****Opening website*****
+2020-04-21 11:43:59,131 [main] INFO ebayWebTest - *****User is on Website*****
+2020-04-21 11:44:05,716 [main] INFO ebayWebTest - *****User is on homepage*****
+2020-04-21 11:44:10,358 [main] INFO ebayWebTest - *****User is on searching for product*****
+2020-04-21 11:44:12,513 [main] INFO ebayWebTest - *****User finds product*****
+2020-04-21 11:44:16,828 [main] INFO ebayWebTest - *****User is on checkout*****
