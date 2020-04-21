@@ -1,0 +1,8 @@
+# Log file
+log/
+
+# Mac File
+.DS_Store
+
+# ScreenShots
+ScreenShots/
