@@ -15,13 +15,13 @@
 
 ## Features of the framework
 1. BDD framework using Cucumber-jvm. Feature files can be written easily using Given,When, Then etc.
-2. Browser(chrome/firefox) can be configured at run time  from command line (or Continuous integration tool, if configured).
-3. Tests can run in headless browser.
-4. Screenshot would be taken if any scenario failed and saved under /outputFiles folder.
-5. Html report gets generated after each test run and can be found /target folder.
+2. The browser to use for the test execution is a configurable property.
+3. Screenshots and logs are captured for the execution.
+4. Html report gets generated after each test run and can be found /target folder.
+5. Test Data is captured from propert file.
 
 
-**package: resources** : It has exe of chromedriver. This is required while creating the webdriver session.
+**package: resources** : It has exe of chromedriver, geckodriver and IE. This is required while creating the webdriver session.
 
 ## Setting up the project
 
@@ -41,3 +41,5 @@ The Maven build agent can trigger the tests by launching the Maven on IDE and do
 Command line can also be used to run the tests:
 
 **$ mvn test**
+
+
