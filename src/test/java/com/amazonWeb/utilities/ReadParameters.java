@@ -1,4 +1,4 @@
-package com.ebaytest.utilities;
+package com.amazonWeb.utilities;
 
 import java.io.File;
 import java.io.FileInputStream;

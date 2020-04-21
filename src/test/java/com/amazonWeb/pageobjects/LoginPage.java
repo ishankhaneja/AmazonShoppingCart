@@ -1,13 +1,10 @@
-package com.ebaytest.pageobjects;
+package com.amazonWeb.pageobjects;
 
-import com.ebaytest.stepdefinitions.Hook_DriverInitialization;
-import org.openqa.selenium.By;
+import com.amazonWeb.stepdefinitions.Hook_DriverInitialization;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 //Page object class for Login Page
 public class LoginPage extends Hook_DriverInitialization { // Java OOP Inheritance concept

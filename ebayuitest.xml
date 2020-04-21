@@ -3,7 +3,7 @@
 <suite name="eBayWebTest">
     <test name="eBayWebTestCases">
         <classes>
-            <class name="com.ebaytest.testrunners.TestRunner" />
+            <class name="com.amazonWeb.testrunners.TestRunner" />
         </classes>
     </test>
 </suite>

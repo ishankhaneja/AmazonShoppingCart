@@ -1,6 +1,6 @@
-package com.ebaytest.pageobjects;
+package com.amazonWeb.pageobjects;
 
-import com.ebaytest.stepdefinitions.Hook_DriverInitialization;
+import com.amazonWeb.stepdefinitions.Hook_DriverInitialization;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

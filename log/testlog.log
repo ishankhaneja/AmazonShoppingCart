@@ -152,3 +152,43 @@
 2020-04-20 23:21:35,008 - ebayWebTest -INFO - *****User is on homepage*****
 2020-04-20 23:21:38,239 - ebayWebTest -INFO - *****User is on searching for product*****
 2020-04-20 23:21:49,201 - ebayWebTest -INFO - *****User finds product*****
+2020-04-21 10:07:16,719 - ebayWebTest -INFO - *****Broswer launched*****
+2020-04-21 10:07:16,731 - ebayWebTest -INFO - *****Opening website*****
+2020-04-21 10:07:18,930 - ebayWebTest -INFO - *****User is on Website*****
+2020-04-21 10:07:24,401 - ebayWebTest -INFO - *****User is on homepage*****
+2020-04-21 10:07:24,935 - ebayWebTest -INFO - *****User is on searching for product*****
+2020-04-21 10:07:30,011 - ebayWebTest -INFO - *****User finds product*****
+2020-04-21 10:13:54,826 - ebayWebTest -INFO - *****Broswer launched*****
+2020-04-21 10:13:54,831 - ebayWebTest -INFO - *****Opening website*****
+2020-04-21 10:13:56,528 - ebayWebTest -INFO - *****User is on Website*****
+2020-04-21 10:14:02,762 - ebayWebTest -INFO - *****User is on homepage*****
+2020-04-21 10:14:03,029 - ebayWebTest -INFO - *****User is on searching for product*****
+2020-04-21 10:14:10,396 - ebayWebTest -INFO - *****User finds product*****
+2020-04-21 10:20:30,299 - ebayWebTest -INFO - *****Broswer launched*****
+2020-04-21 10:20:30,304 - ebayWebTest -INFO - *****Opening website*****
+2020-04-21 10:20:32,277 - ebayWebTest -INFO - *****User is on Website*****
+2020-04-21 10:20:38,275 - ebayWebTest -INFO - *****User is on homepage*****
+2020-04-21 10:20:39,749 - ebayWebTest -INFO - *****User is on searching for product*****
+2020-04-21 10:20:41,077 - ebayWebTest -INFO - *****User finds product*****
+2020-04-21 10:20:46,679 - ebayWebTest -INFO - *****User is on checkout*****
+2020-04-21 10:30:06,408 - ebayWebTest -INFO - *****Broswer launched*****
+2020-04-21 10:30:06,415 - ebayWebTest -INFO - *****Opening website*****
+2020-04-21 10:30:08,145 - ebayWebTest -INFO - *****User is on Website*****
+2020-04-21 10:30:13,901 - ebayWebTest -INFO - *****User is on homepage*****
+2020-04-21 10:30:15,551 - ebayWebTest -INFO - *****User is on searching for product*****
+2020-04-21 10:30:17,045 - ebayWebTest -INFO - *****User finds product*****
+2020-04-21 10:30:21,836 - ebayWebTest -INFO - *****User is on checkout*****
+2020-04-21 10:31:42,682 - ebayWebTest -INFO - *****Broswer launched*****
+2020-04-21 10:31:42,688 - ebayWebTest -INFO - *****Opening website*****
+2020-04-21 10:31:44,752 - ebayWebTest -INFO - *****User is on Website*****
+2020-04-21 10:31:50,611 - ebayWebTest -INFO - *****User is on homepage*****
+2020-04-21 10:31:54,422 - ebayWebTest -INFO - *****User is on searching for product*****
+2020-04-21 10:31:56,428 - ebayWebTest -INFO - *****User finds product*****
+2020-04-21 10:32:00,425 - ebayWebTest -INFO - *****User is on checkout*****
+2020-04-21 10:39:41,001 - ebayWebTest -INFO - *****Broswer launched*****
+2020-04-21 10:39:41,006 - ebayWebTest -INFO - *****Opening website*****
+2020-04-21 10:39:42,741 - ebayWebTest -INFO - *****User is on Website*****
+2020-04-21 10:39:49,566 - ebayWebTest -INFO - *****User is on homepage*****
+2020-04-21 10:39:50,850 - ebayWebTest -INFO - *****User is on searching for product*****
+2020-04-21 10:39:53,673 - ebayWebTest -INFO - *****User finds product*****
+2020-04-21 10:39:56,878 - ebayWebTest -INFO - *****User is on checkout*****

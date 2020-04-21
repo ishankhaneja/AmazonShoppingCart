@@ -1,7 +1,7 @@
-package com.ebaytest.stepdefinitions;
+package com.amazonWeb.stepdefinitions;
 
 
-import com.ebaytest.utilities.ReadParameters;
+import com.amazonWeb.utilities.ReadParameters;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
 import org.openqa.selenium.WebDriver;
