@@ -1,7 +1,0 @@
-com/ebaytest/pageobjects/LoginPage.class
-com/ebaytest/stepdefinitions/Hook_DriverInitialization.class
-com/ebaytest/utilities/ReadParameters.class
-com/ebaytest/pageobjects/SearchPage.class
-com/ebaytest/pageobjects/HomePage.class
-com/ebaytest/testrunners/TestRunner.class
-com/ebaytest/stepdefinitions/stepDefinition.class

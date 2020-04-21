@@ -74,7 +74,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 1507055258,
+  "duration": 1367586654,
   "status": "passed"
 });
 formatter.scenario({
@@ -128,7 +128,7 @@ formatter.match({
   "location": "stepDefinition.user_launches_chrome_browser()"
 });
 formatter.result({
-  "duration": 274710411,
+  "duration": 295444372,
   "status": "passed"
 });
 formatter.match({
@@ -141,39 +141,39 @@ formatter.match({
   "location": "stepDefinition.user_navigates_to_url(String)"
 });
 formatter.result({
-  "duration": 2759314385,
+  "duration": 3347746212,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.user_clicks_button()"
 });
 formatter.result({
-  "duration": 1218767960,
+  "duration": 612271625,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.user_signs_in()"
 });
 formatter.result({
-  "duration": 5430247216,
+  "duration": 5457417744,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.user_searches_product()"
 });
 formatter.result({
-  "duration": 1652769617,
+  "duration": 1338594158,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.user_selects_product()"
 });
 formatter.result({
-  "duration": 5419018147,
+  "duration": 6172588717,
   "status": "passed"
 });
 formatter.after({
-  "duration": 194929243,
+  "duration": 232495978,
   "status": "passed"
 });
 });

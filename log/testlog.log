@@ -192,3 +192,17 @@
 2020-04-21 10:39:50,850 - ebayWebTest -INFO - *****User is on searching for product*****
 2020-04-21 10:39:53,673 - ebayWebTest -INFO - *****User finds product*****
 2020-04-21 10:39:56,878 - ebayWebTest -INFO - *****User is on checkout*****
+2020-04-21 10:44:40,199 - ebayWebTest -INFO - *****Broswer launched*****
+2020-04-21 10:44:40,209 - ebayWebTest -INFO - *****Opening website*****
+2020-04-21 10:44:42,050 - ebayWebTest -INFO - *****User is on Website*****
+2020-04-21 10:44:48,078 - ebayWebTest -INFO - *****User is on homepage*****
+2020-04-21 10:44:52,665 - ebayWebTest -INFO - *****User is on searching for product*****
+2020-04-21 10:44:54,972 - ebayWebTest -INFO - *****User finds product*****
+2020-04-21 10:44:58,194 - ebayWebTest -INFO - *****User is on checkout*****
+2020-04-21 10:46:57,004 - ebayWebTest -INFO - *****Broswer launched*****
+2020-04-21 10:46:57,009 - ebayWebTest -INFO - *****Opening website*****
+2020-04-21 10:46:59,342 - ebayWebTest -INFO - *****User is on Website*****
+2020-04-21 10:47:05,473 - ebayWebTest -INFO - *****User is on homepage*****
+2020-04-21 10:47:06,676 - ebayWebTest -INFO - *****User is on searching for product*****
+2020-04-21 10:47:08,681 - ebayWebTest -INFO - *****User finds product*****
+2020-04-21 10:47:13,252 - ebayWebTest -INFO - *****User is on checkout*****
